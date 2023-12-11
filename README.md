@@ -30,4 +30,4 @@ We love contributions! If you would like to join the fun and contribute to the d
 
 ## License 📜
 
-GoonArch is licensed under the [MIT License](./LICENSE). Let's have fun and build amazing things together! 🎉🚀
+GoonArch is licensed under the [GPL License](./LICENSE). Let's have fun and build amazing things together! 🎉🚀
