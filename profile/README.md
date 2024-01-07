@@ -1,4 +1,4 @@
-# 🚀 GoonArch: The Fun Linux Distribution 🎉
+# 🚀 GoonArch: The Fun Linux Distribution 🎉  [![Build GoonArch ISO](https://github.com/goonarch/goonarch/actions/workflows/iso_build.yml/badge.svg?branch=main)](https://github.com/goonarch/goonarch/actions/workflows/iso_build.yml)
 
 Welcome to GoonArch, the custom Linux distribution designed specifically for laptop users who love to have fun while using their computers! 🎉🐧
 
